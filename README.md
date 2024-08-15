@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ClayOjijo
 - 👀 I’m interested in software development.
-- 🌱 I’m currently taking  a course in web design to create validating projects and improve my skills.
+- 🌱 I’m currently taking  a course in web design to create validating projects and improve my technical skills.
 - 💞️ I’m looking forward to collaborate in the Software development world.
 - 📫 How to reach me via email clayojijo@gmail.com
 - 😄 Pronouns: Intentional, Life Hacker, Till time, Innovative, Consistence.

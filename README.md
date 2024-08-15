@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ClayOjijo
-- 👀 I’m interested in Cybersecurity and Programming
-- 🌱 I’m currently learning a course in Cyber security aside Programming
-- 💞️ I’m looking to collaborate on Cyber security
+- 👀 I’m interested in software development.
+- 🌱 I’m currently taking  a course in web design to create validating projects and improve my skills.
+- 💞️ I’m looking forward to collaborate in the Software development world.
 - 📫 How to reach me via email clayojijo@gmail.com
-- 😄 Pronouns: Intentional, Life Hacker, Till time.
+- 😄 Pronouns: Intentional, Life Hacker, Till time, Innovative, Consistence.
 - ⚡ Fun fact: i love it though it's demanding.
 
 <!---

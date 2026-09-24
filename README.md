@@ -36,7 +36,7 @@ I enjoy building practical technology solutions and learning by working on real 
 A web-based attendance management system using fingerprint verification, PHP, SQLite3, and Arduino hardware.
 
 🔹 **MMU ICT Museum Website**  
-A responsive front-end website developed using HTML, CSS, and JavaScript.
+A responsive 1-page front-end website developed using HTML, CSS, and JavaScript.
 
 ### 🌱 Currently Learning
 
@@ -49,6 +49,9 @@ I'm continuously developing my skills in **cybersecurity, software development, 
 ---
 
 ⭐ *Building, learning, and improving one project at a time.*
+
+### 🌸 Fun fact: Did you know that....
+The Firefox logo isn't a fox? 😄
 <!---
 ClayOjijo/ClayOjijo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -1,4 +1,4 @@
-# Hi, I'm Lucy Clay 👋
+# Hi, I'm Clay 👋
 
 ### Information Technology Graduand | Cybersecurity & Software Development
 
